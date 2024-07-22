@@ -9,8 +9,11 @@ Event: House of Hackers Hackathon 2023
 Team Name: Dark Pheonix
 
 Team Member 1: Md Mirja Galib (Btech 2nd Year,ECE)
+
 Team Member 2: Swapnil Sarkar (Btech 2nd Year,ECE)
+
 Team Member 3: Bishal Chandra Debnath (Btech 2nd Year,CST)
+
 Team Member 4: Samrat Kumar Das (Btech 2nd Year,ECE)
 
 About us: We are Team Dark Phoenix from Kolkata, West Bengal. Currently we pursuing B.tech degree from Narula Institute of Technology in ECE. Grow, Explore more and transform the impossible into real life is our main mantra.
